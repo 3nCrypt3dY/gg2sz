@@ -1,0 +1,13 @@
+{
+  "radio": {
+    "stream": "http://us4.internet-radio.com:8193/stream",
+    "volume": 50
+  },
+  
+
+  "discord": {
+    "token":"MTAzNjI1MTQ4MjU2NTEyMDA3Mg.GCeUxi.PE8RiyTzW-54OPkpiOBl0T6VQKjJcr2PN_-sMI",
+
+    "channel": "1041390153366765698"
+  }
+}
